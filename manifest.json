@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "templateRefWidth": 1920,
+  "templateRefHeight": 1200,
+  "files": [
+    "ui/map.png",
+    "ui/search.png",
+    "ui/gold.png",
+    "ui/stone.png",
+    "ui/search_result_first.png",
+    "ui/preset_1.png",
+    "ui/preset_2.png",
+    "ui/preset_3.png",
+    "ui/preset_4.png",
+    "ui/preset_5.png",
+    "ui/launch.png",
+    "ui/settings.png",
+    "ui/switch_character.png",
+    "ui/switch_account.png",
+    "ui/popup_close.png",
+    "accounts/acc1.png",
+    "characters/c1.png",
+    "characters/c2.png"
+  ]
+}
