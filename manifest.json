@@ -1,25 +1,27 @@
 {
-  "version": 1,
-  "templateRefWidth": 1920,
-  "templateRefHeight": 1200,
+  "version": 2,
+  "templateRefWidth": 1024,
+  "templateRefHeight": 640,
   "files": [
     "ui/map.png",
     "ui/search.png",
     "ui/gold.png",
     "ui/stone.png",
+    "ui/wood.png",
+    "ui/mana.png",
+    "ui/search_confirm.png",
     "ui/search_result_first.png",
-    "ui/preset_1.png",
-    "ui/preset_2.png",
-    "ui/preset_3.png",
-    "ui/preset_4.png",
-    "ui/preset_5.png",
+    "ui/create_legions.png",
     "ui/launch.png",
     "ui/settings.png",
     "ui/switch_character.png",
     "ui/switch_account.png",
     "ui/popup_close.png",
-    "accounts/acc1.png",
+    "ui/confirm.png",
     "characters/c1.png",
-    "characters/c2.png"
+    "characters/c2.png",
+    "accounts/acc1.png",
+    "accounts/acc2.png",
+    "accounts/acc3.png"
   ]
 }
