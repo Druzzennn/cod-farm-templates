@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "templateRefWidth": 1024,
   "templateRefHeight": 640,
   "files": [
@@ -17,6 +17,7 @@
     "ui/switch_character.png",
     "ui/switch_account.png",
     "ui/popup_close.png",
+    "ui/popup_close_2.png",
     "ui/confirm.png",
     "characters/c1.png",
     "characters/c2.png",
